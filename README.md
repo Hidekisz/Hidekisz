@@ -18,9 +18,9 @@ Exploring new features of Java 17.
 Deepening knowledge in DevOps practices and continuous integration.
 Interested in contributing to open-source projects and collaborating with the community.
 📫 Contact
-Email: youremail@example.com
-LinkedIn: linkedin.com/in/your-profile
-GitHub: github.com/your-username
+Email: vinihicosta@gmail.com
+LinkedIn: linkedin.com/in/viniciushidekidacosta
+
 ⚡ Let's Connect!
 Feel free to reach out to collaborate on projects or simply to exchange ideas about technology and software development.
 
