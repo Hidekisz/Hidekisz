@@ -11,7 +11,7 @@ I have worked in project areas, developing and maintaining microservices APIs us
 Programming Languages: Java 7, 8, 17
 Frontend: HTML, CSS, jQuery
 Databases: Oracle SQL
-Frameworks: Spring Boot, Spring Batch
+Frameworks: Spring Boot
 Reporting: Jasper
 Version Control: Git
 CI/CD: Jenkins
